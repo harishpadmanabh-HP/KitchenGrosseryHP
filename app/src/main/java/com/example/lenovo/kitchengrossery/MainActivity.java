@@ -16,7 +16,7 @@ import java.util.ArrayList;
 public class MainActivity extends AppCompatActivity {
     RecyclerView recy_srp;
 
-    int [] pic={R.drawable.chilli,R.drawable.chilli,R.drawable.chilli,R.drawable.chilli};
+    int [] pic={R.drawable.chilli,R.drawable.ic_launcher_foreground,R.drawable.chilli,R.drawable.chilli};
 
     ArrayList<String> arrl;
 
